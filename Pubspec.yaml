@@ -18,5 +18,9 @@ dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/logo.png
+    - assets:
+    - received_2344542619683235.jpeg
+
+
+
     
